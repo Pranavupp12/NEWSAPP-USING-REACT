@@ -59,6 +59,4 @@ Create a `.env.local` file and configure necessary environment variables such as
 - `test` – Runs test suites.
 - `eject` – Ejects the app (only if necessary).
 
-## License
 
-This project is licensed under the MIT License.
